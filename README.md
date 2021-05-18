@@ -1,5 +1,5 @@
 # Looper Hooper
-My first React web application
+My first React web application:
 - Built from scratch
 - in 72 hours
 - During this time I also learned React from scratch
